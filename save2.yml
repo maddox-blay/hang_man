@@ -1,0 +1,44 @@
+---
+word: philadelphia
+current:
+- _
+- _
+- i
+- _
+- a
+- _
+- e
+- _
+- _
+- _
+- i
+- a
+mistake: 3
+valid:
+- b
+- c
+- d
+- f
+- g
+- h
+- j
+- k
+- l
+- m
+- o
+- p
+- q
+- r
+- s
+- t
+- u
+- v
+- w
+- x
+- z
+invalid:
+- a
+- e
+- "n"
+- "y"
+- i
